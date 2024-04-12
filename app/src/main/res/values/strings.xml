@@ -2,4 +2,7 @@
     <string name="app_name">FireBase8</string>
     <string name="deleteText">delete</string>
     <string name="editText">edit</string>
+    <string name="editar_frases">Editar Frases</string>
+    <string name="agregar_frase">Agregar Frase</string>
+    <string name="imagen_libro">imagen libro</string>
 </resources>

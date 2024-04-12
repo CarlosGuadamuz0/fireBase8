@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FireBase8</string>
+    <string name="deleteText">delete</string>
+    <string name="editText">edit</string>
+</resources>
